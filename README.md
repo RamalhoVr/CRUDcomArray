@@ -25,7 +25,9 @@ Suponha que você deseja cadastrar informações de 3 pessoas. Após inserir a q
 
 ## Menu: 
 Primeiro é pedido a quantidade de pessoas a ser cadastrado, após isso, o menu é introduzido.
+
 ![image](https://github.com/RamalhoVr/CadastrocomArray/assets/116125017/41a43281-081b-45ba-a38b-8006fedb5b45)
+
 ![image](https://github.com/RamalhoVr/CadastrocomArray/assets/116125017/24a86a16-3944-4dba-8ae3-f0fc8ab53f30)
 
 ## Cadastrar:
